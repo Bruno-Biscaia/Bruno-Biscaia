@@ -33,7 +33,7 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Bruno-Biscaia&repo=Controller-MIDI&theme=radical)](https://github.com/Bruno-Biscaia/Controller-MIDI)
 
  
-  ## Contato
+  ##
  
 <div>     
   <a href="https://instagram.com/brunno.biscaia" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
