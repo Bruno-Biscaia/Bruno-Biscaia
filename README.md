@@ -20,9 +20,11 @@
 
 <br>
 
-## Meu GitHub:
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bruno-Biscaia&count_private=true&hide=contribs,prs&show_icons=true&theme=algolia) <br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bruno-Biscaia&layout=compact&theme=algolia)](https://github.com/Bruno-Biscaia/)
+## Meu GitHub:  
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bruno-Biscaia&count_private=true&hide=contribs,prs&show_icons=true&theme=algolia)](https://github.com/Bruno-Biscaia/) <br>
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bruno-Biscaia&layout=compact&theme=algolia)](https://github.com/Bruno-Biscaia/)
+
+
 
 ## Principais Repos e Projetos:
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Bruno-Biscaia&repo=Organo2.0&theme=radical)](https://github.com/Bruno-Biscaia/Organo2.0)
