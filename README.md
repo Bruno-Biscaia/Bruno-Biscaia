@@ -1,9 +1,8 @@
 
 ## Ola,  me chamo Bruno Biscaia! ✌️
-- 💻 Desenvolvedor FrontEnd / FullStack 
-- 📝 Cursando ADS e Formado em Processos Gerencias
+- 💻 Desenvolvedor Especialista FrontEnd (React/Next) 
+- 📝 Análise e Desenvolvimento de Sistemas
 - 🔎 Estudante e entusiasta de tecnologia / programação 
-- 🎸 Músico, Cantor e Teológo nas horas vagas!
 
 <br>
   
