@@ -34,11 +34,11 @@ Stacks e Frameworks:
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Bruno-Biscaia&repo=Challenge_Nivello&theme=radical)](https://github.com/Bruno-Biscaia/Challenge_Nivello)
 
 ### Projetos:
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Bruno-Biscaia&repo=Voll_App&theme=radical)](https://github.com/Bruno-Biscaia/voll_app)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Bruno-Biscaia&repo=Controller-MIDI&theme=radical)](https://github.com/Bruno-Biscaia/Controller-MIDI)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Bruno-Biscaia&repo=Organo2.0&theme=radical)](https://github.com/Bruno-Biscaia/Organo2.0)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Bruno-Biscaia&repo=chronos-pomodoro&theme=radical)](https://github.com/Bruno-Biscaia/chronos-pomodoro)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Bruno-Biscaia&repo=Voll_App&theme=radical)](https://github.com/Bruno-Biscaia/voll_app)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Bruno-Biscaia&repo=Controller-MIDI&theme=radical)](https://github.com/Bruno-Biscaia/Controller-MIDI)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Bruno-Biscaia&repo=Organo2.0&theme=radical)](https://github.com/Bruno-Biscaia/Organo2.0)
 
 
 
